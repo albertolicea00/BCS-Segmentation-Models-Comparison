@@ -158,7 +158,7 @@ files = os.listdir(image_folder)
 
 ver todas las librerias utilizadas para este proyecto en [requirements.txt]('./requirements.txt') con [python](https://www.python.org/) v3.09+
 
-#### Procesamiento de imagenes
+#### Biblioteca de machine learning
 
 - [PyTorch](https://pytorch.org/) as torch
   - [torchvision](https://pytorch.org/vision/stable/index.html)
