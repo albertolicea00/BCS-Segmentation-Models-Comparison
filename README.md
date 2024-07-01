@@ -154,7 +154,7 @@ files = os.listdir(image_folder)
 - en caso de que la ubicación sea remota en **googleDrive** `drive_folder = 'drive/MyDrive/...'`
 - en caso de que la ubicación sea local en tu Maquina `drive_folder = ''  `
 
-## ⚙️ Tecnologías en caso de que la ubicación sea local en tu Maquina drive_folder = ''
+## ⚙️ Tecnologías
 
 ver todas las librerias utilizadas para este proyecto en [requirements.txt]('./requirements.txt') con [python](https://www.python.org/) v3.09+
 
