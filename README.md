@@ -10,9 +10,11 @@ Nota : esto quiere decir que a pesar de que el algoritmo no funcione del todo bi
 ├───.vscode
 ├───db        # database BCS
 │
-├───doc       # algoritmos
+├───doc       # documentación de esos algoritmos
 │
-├───code      # documentación de esos algoritmos
+├───code      # algoritmos
+│
+├───lib       # requirements correspondientes a cada algoritmo
 ```
 
 - cada uno de esos algoritmops ubicados en `./code/` podrá poseer su correspondiente documentacion dentro de `./doc/`
@@ -108,13 +110,19 @@ drive_folder = ''
 
 ## Instalación
 
-### Clonar el repositorio:
-
-<!-- TODO -->
+### Publicar el repositorio:
 
 ### Instala dependencias
 
-<!-- TODO -->
+Google Colab ya tiene la mayoría de estas librerías preinstaladas, pero puedes asegurarte ejecutando los siguientes comandos:
+
+```python
+!pip install [nombre de los paquetes en requirements.txt]
+```
+
+### Directorio de trabajo:
+
+El código está diseñado para trabajar con Google Drive. Asegúrate de tener los archivos de imágenes en la carpeta especificada en Google Drive: ver [Recordatorio]()
 
 ### Recordatorio
 
