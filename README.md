@@ -1,4 +1,4 @@
-# Proyecto de Tesis
+# Proyecto de Tesis : Aplicación de técnicas de pre-procesamiento en bases de conocimientos de la condición corporal de la vaca
 
 Códigos del Proyecto de tesis donde se irán almacenando diferentes algoritmos en diferentes **Jupyter-Notebook** con un correcto **versionado** pudiendo asi lograr **mantener la integridad** de los mismos a la hora de su **futura comparación**
 
